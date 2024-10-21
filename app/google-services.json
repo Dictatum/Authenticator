@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317935360982",
+    "project_id": "userauthtest-3d3a3",
+    "storage_bucket": "userauthtest-3d3a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317935360982:android:263781261169e59da86277",
+        "android_client_info": {
+          "package_name": "com.example.userauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1vLXcjzdRb0RnJGgsdT7UqDJH2wsNsDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
